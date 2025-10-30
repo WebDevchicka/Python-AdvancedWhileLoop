@@ -1,14 +1,14 @@
-This set includes 4 assignments, increasing in difficulty:
-1️⃣ Basic Level
-2️⃣ Intermediate Level
-3️⃣ Advanced Level
-4️⃣ Expert Level
+# This set includes 4 assignments, increasing in difficulty:
+# 1️⃣ Basic Level
+# 2️⃣ Intermediate Level
+# 3️⃣ Advanced Level
+# 4️⃣ Expert Level
 
-Rules:
-- You must use WHILE LOOPS for iteration.
-- Do NOT use for loops unless explicitly stated.
-- Add input validation or error handling where appropriate.
-"""
+# Rules:
+# - You must use WHILE LOOPS for iteration.
+# - Do NOT use for loops unless explicitly stated.
+# - Add input validation or error handling where appropriate.
+
 
 # =========================================================
 # 1️⃣ BASIC LEVEL
